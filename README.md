@@ -103,11 +103,10 @@ Contributions are welcome! Feel free to open an issue or submit a pull request i
 - Enhancing the interface.
 - Improving the README or documentation.
 
-## License 📄
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
 ## Author 💼
-Developed by **[Your Name](https://github.com/yourusername)**.
+Developed by **[Your Name](https://github.com/Anand7758)**.
 
 ## Acknowledgments 🙏
 Special thanks to the open-source community and anyone who has contributed ideas or code.
