@@ -1,5 +1,4 @@
 # Password-Generator
-Here's the README in Markdown format suitable for GitHub:
 
 ---
 
@@ -27,6 +26,7 @@ Welcome to **PASS_KING** - a versatile and secure password generation tool with 
 3. **Run the Script**:
    Ensure you have Python 3 installed, then run:
    ```bash
+   chmod +777pass_king.py
    python3 pass_king.py
    ```
 
