@@ -6,7 +6,7 @@
 
 Welcome to **PASS_KING** - a versatile and secure password generation tool with customizable options for creating strong passwords or generating password lists for brute force testing. With a colorful, flame-styled banner and easy-to-use interface, PASS_KING makes it easy to generate secure passwords based on your specific requirements.
 
-![PASS_KING Demo Banner](banner_image_url) <!-- Replace with an actual link to an image if needed -->
+![PASS_KING Demo Banner](https://github.com/Anand7758/Password-Generator/blob/main/2024-11-08_20h20_13.png) <!-- Replace with an actual link to an image if needed -->
 
 ## Features ✨
 - **Generate Strong Passwords**: Customize a strong password by providing a name, numbers, special characters, and length.
