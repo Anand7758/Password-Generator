@@ -19,7 +19,7 @@ Welcome to **PASS_KING** - a versatile and secure password generation tool with 
    ```
 2. **Navigate to the Directory**:
    ```bash
-   cd PASS_KING
+   cd Password-Generator
    ```
 3. **Run the Script**:
    Ensure you have Python 3 installed, then run:
