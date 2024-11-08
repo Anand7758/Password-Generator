@@ -104,7 +104,7 @@ Contributions are welcome! Feel free to open an issue or submit a pull request i
 
 
 ## Author 💼
-Developed by **[Your Name](https://github.com/Anand7758)**.
+Developed by **(https://github.com/Anand7758)**.
 
 ## Acknowledgments 🙏
 Special thanks to the open-source community and anyone who has contributed ideas or code.
