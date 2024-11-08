@@ -17,7 +17,7 @@ Welcome to **PASS_KING** - a versatile and secure password generation tool with 
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/PASS_KING.git
+   https://github.com/Anand7758/Password-Generator.git
    ```
 2. **Navigate to the Directory**:
    ```bash
