@@ -1,6 +1,4 @@
-# Password-Generator
 
----
 
 # PASS_KING 🔐🔥
 
